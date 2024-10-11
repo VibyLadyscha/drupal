@@ -9,8 +9,14 @@
 
 # Instalasi
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
+### Kebutuhan Sistem :
+- Linux CLI
+- Apache Web server 2.4.7+
+- PHP 8.3.0
+- MySQL 5.7.8+
+- RAM minimal 100 Mb
+  
+### Langkah instalasi dalam CLI :
 
 
 # Konfigurasi
@@ -55,5 +61,5 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 # Referensi
-
+- Wikipedia https://en.wikipedia.org/wiki/Drupal
 Cantumkan tiap sumber informasi yang anda pakai.
