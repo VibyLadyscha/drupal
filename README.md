@@ -174,7 +174,11 @@
 - Jika kita masuk ke submenu `Appearance` pada menu `Manage`, kita dapat menerapkan berbagai macam tema aplikasi Untuk memperindah aplikasi.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/649a0f2b-48c3-4a42-814c-edc4dfc792e2"></h1>
 
+- Jika kita masuk ke submenu `People` pada menu `Manage`, kita dapat mengatur batas akses aplikasi sesuai dengan role pengguna (anonymous, konten editor, admin).
+<h1 align="center"><img src="https://github.com/user-attachments/assets/ce42de4f-add0-4ec0-9b29-6d14535206a3"></h1>
+
 #  Maintenance
+
 Ketika ingin memodifikasi aplikasi yang sudah terinstall, kita mungkin tidak ingin ada orang lain yang membuka aplikasi kita. Pada saat seperti itu, kita dapat mengatur konfigurasi aplikasi kita untuk masuk ke dalam `maintenance mode`. Berikut langkah-langkah yang harus kita:
 1. Login dengan akun administrator yang telah dibuat.
   
