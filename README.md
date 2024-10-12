@@ -208,7 +208,25 @@ Sebagai contoh, kita akan menggunakan layanan dari **Installatron.**
     - kelebihan
       1. Mudah dilakukan pengembangan
          - Oleh karena database ini bersifat open source yang memudahkan dalam melakukan pengeditan atau pengembangan website, sehingga performa website dapat terus terupdate.
+      2. Tingkat keamanan tinggi
+         - Dengan pengecekan data secara teratur dan  berkala menjadikan tingkat keamanan dari database ini terus terupdate atau terbaru setiap saat.
+      3. Kemudahan peluncuran
+         - Kemudahan perilisan dari penggunaan database sehingga dapat digunakan atau diluncurkan pada berbagai macam hosting.
+      4. Memiliki komunitas luas
+         - Komunitas luas dan besar memberikan dukungan atau support mudah pada pengguna lainnya dengan Drupal.org.
+      5. Kemudahan training
+         - Bagi pengguna awam yang belum memahami mengenai pemakaian database dapat melihat tutorial dari video pembelajaran atau pelatihan yang sudah tersedia banyak di internet.
+      6. Tingkat kecepatan
+         - Caching pada database mampu meningkatkan kecepatan atau akses dari  website.
+         
     - kekurangan
+      1. Membutuhkan waktu belajar cukup lama
+         - Agar mampu menguasai penggunaanya, kebanyakan orang belajar menguasainya membutuhkan waktu relatif lama dibanding dengan belajar menguasai CMS lainnya.
+      2. Menghabiskan banyak resource
+         - Kebutuhan resource server yang banyak sehingga akan memakan banyak resource jika tidak dilakukan twek secara berkala.
+      3. Jumlah developer sedikit
+         - Jumlah developer atau pengembang relatif sedikit dibanding dengan pengembang Joomla atau WordPress, sehingga akan kesulitan dalam mencari Drupal developer.
+      
 - Bandingkan dengan aplikasi web lain yang sejenis
 
 
