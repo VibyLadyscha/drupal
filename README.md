@@ -196,13 +196,13 @@ Sebagai contoh, kita akan menggunakan layanan dari **Installatron.**
 4. Tunggu hingga proses instalasi selesai.
 
 # Cara Pemakaian
-# Cara Pemakaian
 Cara pemakaian CMS **Drupal** ini sangat mudah dan fleksibel. Dapat digunakan untuk membuat, mengelola, dan mempublikasikan berbagai jenis konten di website, mulai dari blog pribadi hingga situs perusahaan besar, organisasi pemerintahan, dan portal komunitas. Berikut penjelasannya:
 1. Sebelum menggunakan **Drupal** kita harus membuat akun terlebih dahulu, kemudian **log in.**
 ![login](https://github.com/user-attachments/assets/267a9848-f5dd-4429-9afc-f2dd25a972db)
 
 2. Setelah **log in**, tampilannya akan seperti berikut:
 ![masuk](https://github.com/user-attachments/assets/34fa2b6d-79c3-4edd-b360-4a5dedd8a3ce)
+
 Drupal menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai fungsi administrasi Drupal, diantaranya:
 - Content: Mengelola semua konten yang dibuat di situs, seperti artikel, halaman, dan media.
 - Structure: Mengelola struktur situs web, seperti blok, jenis konten, menu, taksonomi, dan formulir.
@@ -210,9 +210,8 @@ Drupal menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai
 - Extend: Menginstal dan mengelola modul tambahan yang memperluas fungsionalitas Drupal.
 - Configuration: Mengelola pengaturan dasar Drupal, termasuk konfigurasi sistem, pengguna, dan alur kerja.
 
-3. Selanjutnya, kita bisa membuat suatu artikel melalui menu **Shortcuts**, klik **add content.**
+3. Selanjutnya, kita bisa membuat suatu artikel melalui menu **Shortcuts**, klik **add content.** Pada menu ini, kita bisa memilih bentuk konten yang ingin dibuat, yaitu article atau basic page.
 ![WhatsApp Image 2024-10-11 at 17 33 57_609a2ee1](https://github.com/user-attachments/assets/50d55b4c-3eba-445b-8633-6344d77dd4a8)
-Pada menu ini, kita bisa memilih bentuk konten yang ingin dibuat, yaitu article atau basic page.
 
 4. Contohnya, jika kita ingin membuat suatu konten berupa artikel tampilannya akan seperti berikut:
 ![createartikeljumat](https://github.com/user-attachments/assets/dff3da9a-c889-4d90-b53c-e1fb7bd0d2cf)
@@ -226,7 +225,7 @@ Jika artikel berhasil disimpan, tampilannya seperti berikut:
 Jika ingin melihat konten yang telah berhasil dibuat, klik menu manage, content
 ![konten](https://github.com/user-attachments/assets/44e26f52-0d2f-4a7a-9cf0-df38e5a78d82)
 
- Konten bisa dibaca dan dikomentari oleh pengguna lain
+Konten bisa dibaca dan dikomentari oleh pengguna lain
 ![WhatsApp Image 2024-10-11 at 17 33 58_b2e4ab63](https://github.com/user-attachments/assets/3044cd22-b466-4d65-a12f-81e8ab19e362)
 ![komen](https://github.com/user-attachments/assets/945a3426-63a3-43ac-beeb-a89064cb4369)
 
