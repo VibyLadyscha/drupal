@@ -166,6 +166,7 @@
   
   - Kita dapat mengatur cache dan optimasi bandwidth dengan memilih opsi `Performance`.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/5d140670-1fff-4dc2-853c-58226e431858"></h1>
+  
   - Kita dapat mengatur ukuran default gambar yang ditampilkan pada aplikasi dengan memilih opsi `Image Styles` kemudian edit.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/684a9caa-b608-4a7e-a04e-89604a701b68"></h1>
 
@@ -234,3 +235,13 @@ Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress** mau
 - [Drupal Documentation](https://www.drupal.org/documentation) - Drupal
 - [Drupal Review](https://www.g2.com/products/drupal/reviews) - G2: Business Software and Services Reviews
 - [Perbandingan Drupal dan Wordpress](https://www.sekawanmedia.co.id/blog/pengertian-drupal/) - Sekawanmedia
+
+# Anggota Kelompok
+| Nama                                      | NIM          |
+|-------------------------------------------|--------------|
+| Viby Ladyscha Yalasena Winarno | G6401221025  |
+| Yuuka Salsabila Sisvi | G6401221  |
+| Nabiel Muaafii Rahman | G6401221  |
+| Noer Hanifah Suganda | G6401221 |
+| Aditya Purwansyah | G6401221  |
+
