@@ -198,10 +198,16 @@ Sebagai contoh, kita akan menggunakan layanan dari **Installatron.**
 # Cara Pemakaian
 Cara pemakaian CMS **Drupal** ini sangat mudah dan fleksibel. Dapat digunakan untuk membuat, mengelola, dan mempublikasikan berbagai jenis konten di website, mulai dari blog pribadi hingga situs perusahaan besar, organisasi pemerintahan, dan portal komunitas. Berikut penjelasannya:
 1. Sebelum menggunakan **Drupal** kita harus membuat akun terlebih dahulu, kemudian **log in.**
-![login](https://github.com/user-attachments/assets/267a9848-f5dd-4429-9afc-f2dd25a972db)
+![Screenshot 2024-10-12 155846](https://github.com/user-attachments/assets/62e9183b-a6f4-4966-bdc4-b173b1895c1a)
+
+login admin
+![Screenshot 2024-10-12 160056](https://github.com/user-attachments/assets/9c66a544-ccc3-4e07-8db6-bb6268998857)
 
 2. Setelah **log in**, tampilannya akan seperti berikut:
-![masuk](https://github.com/user-attachments/assets/34fa2b6d-79c3-4edd-b360-4a5dedd8a3ce)
+![Screenshot 2024-10-12 160619](https://github.com/user-attachments/assets/1d106be3-3909-4f90-bfa3-e1ef6a5e0f51)
+ini kalo admin
+![Screenshot 2024-10-12 160656](https://github.com/user-attachments/assets/a7c93927-5eff-442a-a0a8-9d172df4033d)
+
 
 Drupal menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai fungsi administrasi Drupal, diantaranya:
 - Content: Mengelola semua konten yang dibuat di situs, seperti artikel, halaman, dan media.
@@ -211,9 +217,10 @@ Drupal menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai
 - Configuration: Mengelola pengaturan dasar Drupal, termasuk konfigurasi sistem, pengguna, dan alur kerja.
 
 3. Selanjutnya, kita bisa membuat suatu artikel melalui menu **Shortcuts**, klik **add content.** Pada menu ini, kita bisa memilih bentuk konten yang ingin dibuat, yaitu article atau basic page.
-![WhatsApp Image 2024-10-11 at 17 33 57_609a2ee1](https://github.com/user-attachments/assets/50d55b4c-3eba-445b-8633-6344d77dd4a8)
+![Screenshot 2024-10-12 160257](https://github.com/user-attachments/assets/a88707d3-2000-4eca-85e8-26a17e68c8ab)
 
-4. Contohnya, jika kita ingin membuat suatu konten berupa artikel tampilannya akan seperti berikut:
+5. Contohnya, jika kita ingin membuat suatu konten berupa artikel tampilannya akan seperti berikut:
+
 ![createartikeljumat](https://github.com/user-attachments/assets/dff3da9a-c889-4d90-b53c-e1fb7bd0d2cf)
 
 Jika artikel sudah selesai ditulis, simpan artikel.
