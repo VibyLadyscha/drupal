@@ -196,57 +196,35 @@ Sebagai contoh, kita akan menggunakan layanan dari **Installatron.**
 4. Tunggu hingga proses instalasi selesai.
 
 # Cara Pemakaian
-Cara pemakaian CMS **Drupal** ini sangat mudah dan fleksibel. Dapat digunakan untuk membuat, mengelola, dan mempublikasikan berbagai jenis konten di website, mulai dari blog pribadi hingga situs perusahaan besar, organisasi pemerintahan, dan portal komunitas. Berikut penjelasannya:
+Cara pemakaian CMS **Drupal** ini sangat mudah dan fleksibel. Dapat digunakan untuk membuat, mengelola, dan mempublikasikan berbagai jenis konten di website, mulai dari blog pribadi hingga situs perusahaan besar, organisasi pemerintahan, dan portal komunitas. Berikut penjelasan pemakaian **Drupal** dari sisi user dan admin:
+
+**USER**
 1. Sebelum menggunakan **Drupal** kita harus membuat akun terlebih dahulu, kemudian **log in.**
 ![Screenshot 2024-10-12 155846](https://github.com/user-attachments/assets/62e9183b-a6f4-4966-bdc4-b173b1895c1a)
-
-login admin
-![Screenshot 2024-10-12 160056](https://github.com/user-attachments/assets/9c66a544-ccc3-4e07-8db6-bb6268998857)
 
 2. Setelah **log in**, tampilannya akan seperti berikut:
 ![Screenshot 2024-10-12 160619](https://github.com/user-attachments/assets/1d106be3-3909-4f90-bfa3-e1ef6a5e0f51)
 
-
-ini kalo admin
-![Screenshot 2024-10-12 160656](https://github.com/user-attachments/assets/a7c93927-5eff-442a-a0a8-9d172df4033d)
-
-edit profile
-![Screenshot 2024-10-12 161057](https://github.com/user-attachments/assets/ca198a78-3644-40ba-87fe-60ed4630422b)
-
-
-notifikasi (sisi admin)
-
-![Screenshot 2024-10-12 155313](https://github.com/user-attachments/assets/da08c08c-f373-41f2-ae26-630912dc5d24)
-
-
-Drupal menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai fungsi administrasi Drupal, diantaranya:
+**Drupal** menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai fungsi administrasi Drupal, diantaranya:
 - Content: Mengelola semua konten yang dibuat di situs, seperti artikel, halaman, dan media.
 - Structure: Mengelola struktur situs web, seperti blok, jenis konten, menu, taksonomi, dan formulir.
 - Appearance: Mengelola tema situs web, mengaktifkan, menonaktifkan, atau mengonfigurasi tema yang diinstal.
 - Extend: Menginstal dan mengelola modul tambahan yang memperluas fungsionalitas Drupal.
 - Configuration: Mengelola pengaturan dasar Drupal, termasuk konfigurasi sistem, pengguna, dan alur kerja.
 
-![Screenshot 2024-10-12 162237](https://github.com/user-attachments/assets/e1dd6708-2b40-46ee-b8df-6ed005aae1e5)
-
-di menu shortcut, bisa edit (sisi admin)
-![Screenshot 2024-10-12 162445](https://github.com/user-attachments/assets/0bbabb0f-2b8a-4c89-a1e5-05e9a68a00de)
-tampilan kalo edit shortcut
-![Screenshot 2024-10-12 162350](https://github.com/user-attachments/assets/c5f5b15d-ae0e-4701-8f7d-861cab0caee3)
-
 3. Selanjutnya, kita bisa membuat suatu artikel melalui menu **Shortcuts**, klik **add content.** Pada menu ini, kita bisa memilih bentuk konten yang ingin dibuat, yaitu article atau basic page.
 ![Screenshot 2024-10-12 160257](https://github.com/user-attachments/assets/a88707d3-2000-4eca-85e8-26a17e68c8ab)
 
-5. Contohnya, jika kita ingin membuat suatu konten berupa artikel tampilannya akan seperti berikut:
-
+4. Contohnya, jika kita ingin membuat suatu konten berupa artikel tampilannya akan seperti berikut:
 ![createartikeljumat](https://github.com/user-attachments/assets/dff3da9a-c889-4d90-b53c-e1fb7bd0d2cf)
 
 Jika artikel sudah selesai ditulis, simpan artikel.
 ![saveartikeljumat](https://github.com/user-attachments/assets/d651b7a2-24c4-4516-a851-fcd6e76ea3ff)
 
-Jika artikel berhasil disimpan, tampilannya seperti berikut:
+Setelah artikel berhasil disimpan, tampilannya seperti berikut:
 ![tampilanartikeljumat](https://github.com/user-attachments/assets/3c5b2fbd-2204-4f29-8d24-64bf3d956d22)
 
-Jika ingin melihat konten yang telah berhasil dibuat, klik menu manage, content
+Selanjutnya, jika ingin melihat konten yang telah berhasil dibuat, klik menu manage, content
 ![konten](https://github.com/user-attachments/assets/44e26f52-0d2f-4a7a-9cf0-df38e5a78d82)
 
 Konten bisa dibaca dan dikomentari oleh pengguna lain
@@ -255,6 +233,30 @@ Konten bisa dibaca dan dikomentari oleh pengguna lain
 
 Selain itu, pengguna dapat melakukan beberapa aksi terhadap konten yang telah dibuat seperti delete content, promote content, publish content, dan aksi-aksi lainnya
 ![action content](https://github.com/user-attachments/assets/9664adc9-c62c-41c5-8ef5-205966000bd6)
+
+
+**ADMIN**
+
+Admin memiliki akses penuh ke seluruh fungsi **Drupal**, termasuk manajemen konten, pengaturan situs, instalasi modul, tema, dan konfigurasi keamanan. 
+
+Pertama-tama Admin harus **log in** terlebih dahulu, sama seperti user biasa
+![Screenshot 2024-10-12 160056](https://github.com/user-attachments/assets/9c66a544-ccc3-4e07-8db6-bb6268998857)
+![Screenshot 2024-10-12 160656](https://github.com/user-attachments/assets/a7c93927-5eff-442a-a0a8-9d172df4033d)
+
+Kemudian, Admin akan mendapatkan beberapa notifikasi seperti berikut:
+
+![Screenshot 2024-10-12 155313](https://github.com/user-attachments/assets/da08c08c-f373-41f2-ae26-630912dc5d24)
+
+Pada menu Manage, Admin dapat mengelola akun pengguna di situs **Drupal**, misalnya pengguna anonim, registrasi akun baru, dan penghapusan akun pengguna. Sehingga situs akan dikelola secara aman dan efisien dari sisi pendaftaran akun pengguna dan perlindungan konten yang sudah dihasilkan oleh pengguna.
+![WhatsApp Image 2024-10-11 at 17 33 15_bb3ec5ce](https://github.com/user-attachments/assets/04cedb87-f84b-409d-ad57-a8f39ea69ccb)
+
+Admin dapat membuat, mengedit, menghapus, dan mengelola akun pengguna, serta menetapkan peran dan izin yang berbeda untuk pengguna lain.
+![Screenshot 2024-10-12 161057](https://github.com/user-attachments/assets/ca198a78-3644-40ba-87fe-60ed4630422b)
+
+Selain itu, Admin juga dapat menghapus komentar, dan membuat, mengedit, atau menghapus semua konten di situs, termasuk konten yang dibuat oleh pengguna lain.
+![WhatsApp Image 2024-10-11 at 17 33 12_0bd25661](https://github.com/user-attachments/assets/754246ff-dd89-4951-bd00-15a5030a7ed6)
+
+Secara keseluruhan, Admin memiliki kendali penuh atas aspek situs, mulai dari pengelolaan konten, manajemen pengguna, hingga pengaturan keamanan. Admin bertanggung jawab untuk mengatur izin pengguna, mengonfigurasi modul, tema, dan memastikan situs berjalan dengan aman serta efisien. Sedangkan, user biasa hanya memiliki akses yang terbatas, hanya pada pembuatan dan pengelolaan konten mereka sendiri. User tidak dapat mengubah pengaturan situs atau mengelola pengguna lain, melainkan hanya berinteraksi dengan bagian-bagian situs yang sudah diatur oleh Admin. 
 
 
 # Pembahasan
