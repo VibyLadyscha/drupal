@@ -359,8 +359,8 @@ Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress** mau
 # Anggota Kelompok
 | Nama                                      | NIM          |
 |-------------------------------------------|--------------|
-| Aditya Purwansyah | G6401221024  |
-| Viby Ladyscha Yalasena Winarno | G6401221025  |
-| Noer Hanifah Suganda | G6401221041 |
-| Nabiel Muaafii Rahman | G6401221044  |
-| Yuuka Salsabila Sisvi | G6401221117  |
+| [Aditya Purwansyah](https://github.com/dittdott) | G6401221024  |
+| [Viby Ladyscha Yalasena Winarno](https://github.com/VibyLadyscha/) | G6401221025  |
+| [Noer Hanifah Suganda](https://github.com/haniniw) | G6401221041 |
+| [Nabiel Muaafii Rahman](https://github.com/NabielMuaafiiR) | G6401221044  |
+| [Yuuka Salsabila Sisvi](https://github.com/Yuukasalsabila) | G6401221117  |
