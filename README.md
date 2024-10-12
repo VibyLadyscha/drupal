@@ -163,6 +163,7 @@
 - Jika kita masuk ke submenu `Configuration` pada menu `Manage`, kita dapat mengatur konfigurasi umum.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/137ec895-3c7d-488f-a807-8501ef2cf65d"></h1>
   <h1 align="center"><img src="https://github.com/user-attachments/assets/c8a89094-0b97-4de2-a357-e8ac576da952"></h1>
+  
   - Kita dapat mengatur cache dan optimasi bandwidth dengan memilih opsi `Performance`.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/5d140670-1fff-4dc2-853c-58226e431858"></h1>
   - Kita dapat mengatur ukuran default gambar yang ditampilkan pada aplikasi dengan memilih opsi `Image Styles` kemudian edit.
@@ -210,14 +211,15 @@ Untuk otomatisasi, kita akan menggunakan layanan dari Installatron. Kunjungi lin
 
 # Pembahasan
 **Drupal** merupakan salah satu CMS yang banyak digemari oleh beberapa orang di seluruh dunia. Drupal dapat mempermudah untuk mengelola konten dan mempublikasikannya secara cepat. Berikut ini merupakan beberapa **kelebihan Drupal**:
-1.
-2. 
-3.
+1. Mudah untuk dilakukan pengembangan karena bersifat open source.
+2. Memiliki tingkat keamanan yang tinggi karena adanya pengecekan data secara teratur dan berkala ketika aplikasi diupdate.
+3. Memiliki desain yang *responsive*, sehingga dapat dibuka menggunakan *device* apapun.
+4. Mudah untuk memahami mengenai penggunaan **Drupal** karena video pembelajaran atau pelatihan sudah banyak tersedia di internet. Selain itu, **Drupal** juga memiliki dokumentasi yang lengkap.
 
 Selain memiliki banyak manfaat seperti yang telah dijelaskan sebelumnya, Drupal juga memiliki kekurangan yang dapat diantisipasi. Berikut ini merupakan beberapa **kekurangan Drupal**.
-1.
-2.
-3.
+1. **Drupal** menyediakan banyak fitur menarik bagi penggunanya, sehingga memerlukan waktu yang cukup lama untuk bisa menguasai CMS ini.
+2. Aplikasi **Drupal** yang memiliki banyak modul atau konten bisa mengalami penurunan performa jika tidak dioptimalkan dengan baik.
+3. Pilihan tema bawaan **Drupal** sangat terbatas sehingga pengguna akan kesulitan jika memerlukan pengembangan tema khusus atau penyesuaian lebih mendalam untuk menciptakan tampilan yang diinginkan.
 
 Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress** maupun **Drupal** tentunya memiliki beberapa kelebihan dan kekurangan yang dapat dijadikan sebagai pertimbangan sebelum menggunakannya. Berikut adalah beberapa perbandingan antara kedua CMS ini.
 
