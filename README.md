@@ -211,21 +211,28 @@ Untuk otomatisasi, kita akan menggunakan layanan dari Installatron. Kunjungi lin
 
 # Pembahasan
 **Drupal** merupakan salah satu CMS yang banyak digemari oleh beberapa orang di seluruh dunia. Drupal dapat mempermudah untuk mengelola konten dan mempublikasikannya secara cepat. Berikut ini merupakan beberapa **kelebihan Drupal**:
-1. Mudah untuk dilakukan pengembangan karena bersifat open source.
-2. Memiliki tingkat keamanan yang tinggi karena adanya pengecekan data secara teratur dan berkala ketika aplikasi diupdate.
-3. Memiliki desain yang *responsive*, sehingga dapat dibuka menggunakan *device* apapun.
+1. Mudah untuk dilakukan pengembangan karena bersifat *open source*.
+2. Memiliki tingkat keamanan yang tinggi karena adanya pengecekan data secara teratur dan berkala ketika aplikasi diperbarui.
+3. Memiliki tampilan yang *responsive*, sehingga dapat dibuka menggunakan *device* apapun.
 4. Mudah untuk memahami mengenai penggunaan **Drupal** karena video pembelajaran atau pelatihan sudah banyak tersedia di internet. Selain itu, **Drupal** juga memiliki dokumentasi yang lengkap.
 
 Selain memiliki banyak manfaat seperti yang telah dijelaskan sebelumnya, Drupal juga memiliki kekurangan yang dapat diantisipasi. Berikut ini merupakan beberapa **kekurangan Drupal**.
 1. **Drupal** menyediakan banyak fitur menarik bagi penggunanya, sehingga memerlukan waktu yang cukup lama untuk bisa menguasai CMS ini.
 2. Aplikasi **Drupal** yang memiliki banyak modul atau konten bisa mengalami penurunan performa jika tidak dioptimalkan dengan baik.
-3. Pilihan tema bawaan **Drupal** sangat terbatas sehingga pengguna akan kesulitan jika memerlukan pengembangan tema khusus atau penyesuaian lebih mendalam untuk menciptakan tampilan yang diinginkan.
+3. Pilihan tema bawaan **Drupal** sangat terbatas dan banyak yang berbayar, sehingga pengguna akan kesulitan jika memerlukan pengembangan tema khusus atau penyesuaian lebih mendalam untuk menciptakan tampilan yang diinginkan.
+4. Panel admin CMS terkadang sangat rumit untuk digunakan jika tidak terbiasa dengan tampilannya.
 
 Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress** maupun **Drupal** tentunya memiliki beberapa kelebihan dan kekurangan yang dapat dijadikan sebagai pertimbangan sebelum menggunakannya. Berikut adalah beberapa perbandingan antara kedua CMS ini.
-
+1. **Drupal** mendukung instalasi manual dan otomatis, namun instalasi manual akan lebih sulit bagi pemula. Sedangkan **WordPress** juga memiliki dua metode instalasi, tetapi lebih mudah digunakan berkat fitur-fitur yang memudahkan.
+2. **Drupal** mengoptimalkan kecepatan situs secara otomatis sehingga performanya cepat. Sedangkan **WordPress** sedikit sulit untuk meningkatkan kecepatan karena tidak ada alat khusus untuk optimasi.
+3. **Drupal** menawarkan konten yang lebih kompleks dan beragam, termasuk fitur chat dan media hosting. Sedangkan **WordPress** lebih sederhana dalam hal konten, sesuai dengan sistem administrasinya yang tidak sekompleks Drupal.
+4. **Drupal** memiliki tingkat keamanan yang sangat tinggi, membuatnya sulit diretas. **WordPress** juga aman, namun rentan jika menggunakan banyak plugin atau tema pihak ketiga.
+5. Kustomisasi tema dan plugin di **Drupal** lebih rumit dan sering memerlukan biaya. Sedangkan di **WordPress**, kustomisasinya lebih mudah dan gratis tanpa perlu modul khusus.
 
 # Referensi
 - Wikipedia https://en.wikipedia.org/wiki/Drupal
 - Situs Drupal https://www.drupal.org/
+- Product review https://www.g2.com/products/drupal/reviews
+- Perbandingan Drupal dan Wordpress https://www.sekawanmedia.co.id/blog/pengertian-drupal/
 
 Cantumkan tiap sumber informasi yang anda pakai.
