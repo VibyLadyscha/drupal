@@ -230,9 +230,7 @@ Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress** mau
 5. Kustomisasi tema dan plugin di **Drupal** lebih rumit dan sering memerlukan biaya. Sedangkan di **WordPress**, kustomisasinya lebih mudah dan gratis tanpa perlu modul khusus.
 
 # Referensi
-- Wikipedia https://en.wikipedia.org/wiki/Drupal
-- Situs Drupal https://www.drupal.org/
-- Product review https://www.g2.com/products/drupal/reviews
-- Perbandingan Drupal dan Wordpress https://www.sekawanmedia.co.id/blog/pengertian-drupal/
-
-Cantumkan tiap sumber informasi yang anda pakai.
+- [Wikipedia Drupal](https://en.wikipedia.org/wiki/Drupal) - Wikipedia
+- [Drupal Documentation](https://www.drupal.org/documentation) - Drupal
+- [Drupal Review](https://www.g2.com/products/drupal/reviews) - G2: Business Software and Services Reviews
+- [Perbandingan Drupal dan Wordpress](https://www.sekawanmedia.co.id/blog/pengertian-drupal/) - Sekawanmedia
