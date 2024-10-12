@@ -160,23 +160,19 @@
 </details>
 
 # Konfigurasi
-- 
+- Jika kita masuk ke submenu `Configuration` pada menu `Manage`, kita dapat mengatur konfigurasi umum.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/137ec895-3c7d-488f-a807-8501ef2cf65d"></h1>
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/c8a89094-0b97-4de2-a357-e8ac576da952"></h1>
+  - Kita dapat mengatur cache dan optimasi bandwidth dengan memilih opsi `Performance`.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/5d140670-1fff-4dc2-853c-58226e431858"></h1>
+  - Kita dapat mengatur ukuran default gambar yang ditampilkan pada aplikasi dengan memilih opsi `Image Styles` kemudian edit.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/684a9caa-b608-4a7e-a04e-89604a701b68"></h1>
+
 - Jika kita masuk ke submenu `Extend` pada menu `Manage`, kita dapat menambahkan fitur atau modul-modul tertentu sesuai yang dibutuhkan untuk melengkapi aplikasi.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/71b6e6a7-5369-44c6-9c59-051c83735c86"></h1>
+  
 - Jika kita masuk ke submenu `Appearance` pada menu `Manage`, kita dapat menerapkan berbagai macam tema aplikasi Untuk memperindah aplikasi.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/649a0f2b-48c3-4a42-814c-edc4dfc792e2"></h1>
-
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
 
 #  Maintenance
 Ketika ingin memodifikasi aplikasi yang sudah terinstall, kita mungkin tidak ingin ada orang lain yang membuka aplikasi kita. Pada saat seperti itu, kita dapat mengatur konfigurasi aplikasi kita untuk masuk ke dalam `maintenance mode`. Berikut langkah-langkah yang harus kita:
@@ -219,7 +215,7 @@ Selain memiliki banyak manfaat seperti yang telah dijelaskan sebelumnya, Drupal 
 2.
 3.
 
-Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress* maupun **Drupal** tentunya memiliki beberapa kelebihan dan kekurangan yang dapat dijadikan sebagai pertimbangan sebelum menggunakannya. Berikut adalah beberapa perbandingan antara kedua CMS ini.
+Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress** maupun **Drupal** tentunya memiliki beberapa kelebihan dan kekurangan yang dapat dijadikan sebagai pertimbangan sebelum menggunakannya. Berikut adalah beberapa perbandingan antara kedua CMS ini.
 
 
 # Referensi
