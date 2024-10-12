@@ -206,6 +206,8 @@ Sebagai contoh, kita akan menggunakan layanan dari **Installatron.**
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
+      1. Mudah dilakukan pengembangan
+         - Oleh karena database ini bersifat open source yang memudahkan dalam melakukan pengeditan atau pengembangan website, sehingga performa website dapat terus terupdate.
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
 
