@@ -106,29 +106,39 @@
 
 16. Kunjungi alamat http://localhost/drupal untuk meneruskan instalasi.
     - Pilih Bahasa yang akan digunakan
-      <h1 align="center"><img src="https://github.com/user-attachments/assets/9f74f634-32aa-43e7-9157-22fee686c49f"></h1>
+      <h1 align="center"><img src="https://github.com/user-attachments/assets/d95fad83-1598-4f55-a641-334675c3424a"></h1>
     - Pilih profil instalasi yang akan digunakan
-      <h1 align="center"><img src="https://github.com/user-attachments/assets/57a86470-9e5b-453c-944f-d1c0a40e08d0"></h1>
+      <h1 align="center"><img src="https://github.com/user-attachments/assets/2457f376-d707-4688-99da-d0ba593c1f60"></h1>
     - Verifikasi *requirements* yang dimiliki. Gulir ke bawah dan pilih opsi `continue anyway`
-    - Set up database dengan memasukkan nama database, username, dan password database. Pilih `save an continue` 
+      <h1 align="center"><img src="https://github.com/user-attachments/assets/1c82a48f-c343-4978-99ad-cb35b1d96044"></h1>
+      <h1 align="center"><img src="https://github.com/user-attachments/assets/fd704062-a3a0-452a-8a8d-8df40e4f6dd1"></h1>
+    - Set up database dengan memasukkan nama database, username, dan password database. Pilih `save an continue`
+      <h1 align="center"><img src="https://github.com/user-attachments/assets/28c7e8a2-1fae-40e8-b6bf-f5256735ae0b"></h1>
     - Tunggu proses instalasi hingga selesai
+      <h1 align="center"><img src="https://github.com/user-attachments/assets/72de69e0-20e0-4f97-84fe-4fd8b11173d6"></h1>
     - Konfigurasi site. Setelah semuanya terisi, pilih `save and continue`
-      <h1 align="center"><img src="https://github.com/user-attachments/assets/c089d340-c5ba-4fa3-8d87-2d8f547490fa"></h1>
+      <h1 align="center"><img src="https://github.com/user-attachments/assets/c38b3c2f-e7c5-416f-9487-7c4dbcbddc4c"></h1>
+      <h1 align="center"><img src="https://github.com/user-attachments/assets/d58b57ef-bacd-48ec-a1e3-50c7b15cbd31"></h1>
+      
 17. Jika berhasil akan muncul tampilan seperti ini.
-    <h1 align="center"><img src="https://github.com/user-attachments/assets/c50698db-2587-457a-9cef-db9f1075e6cd"></h1>
+    <h1 align="center"><img src="https://github.com/user-attachments/assets/1c509c98-ca2c-4de4-9d5b-2d0510859cae"></h1>
 
 </details>
 
 <details><summary> 
-  
+
   ### Hosting 
 </summary>
 
 1. Kunjungi situs web https://localtonet.com.
 2. Sign up dan masukkan email untuk melakukan registrasi akun. Jika sudah memiliki akun, bisa langsung sign in.
+    <h1 align="center"><img src="https://github.com/user-attachments/assets/7a8aec40-0af0-41e5-b8da-f05a2ab62e77"></h1>
 3. Masuk ke submenu `HTTP` pada menu `My Tunnels` untuk membuat server.
+    <h1 align="center"><img src="https://github.com/user-attachments/assets/068c1e03-d426-4c1a-aa75-87289a03e6a8"></h1>
 4. Sesuaikan port localhost tempat untuk menyimpan **Drupal** (port 80), kemudian pilih create.
+    <h1 align="center"><img src="https://github.com/user-attachments/assets/89d894ea-ef4b-4e2d-8253-576e5806992b"></h1>
 5. Pilih tombol start untuk menjalankan server yang telah dibuat.
+    <h1 align="center"><img src="https://github.com/user-attachments/assets/de9b6717-eb91-47d4-96a9-e9c3022e1d93"></h1>
 6. Install localtonet sesuai sistem operasi yang digunakan sebagai server.
    ```
    $ wget https://localtonet.com/download/localtonet-linux-x64.zip
@@ -136,6 +146,7 @@
    $ chmod 777 ./localtonet
    ```
 7. Kembali ke web localtonet, masuk ke menu `Dashboard` dan copy authtoken yang diberikan.
+     <h1 align="center"><img src="https://github.com/user-attachments/assets/e2c4453c-81d8-407e-8482-a966a592a3d9"></h1>
 8. Jalankan server dan masukkan authtoken.
    ```
     $ ./localtonet authtoken PASTE_HERE_COPIED_AUTHTOKEN
@@ -166,15 +177,15 @@ Ketika ingin memodifikasi aplikasi yang sudah terinstall, kita mungkin tidak ing
 1. Login dengan akun administrator yang telah dibuat.
   
 2. Masuk ke submenu `Configuration` pada menu `Manage`.
-<h1 align="center"><img src="https://github.com/user-attachments/assets/a19f915e-acb2-4fcb-af37-bd8b750bc2f7"></h1>
+<h1 align="center"><img src="https://github.com/user-attachments/assets/80207d92-97ee-42ae-8c6e-26de1191f191"></h1>
 
 3. Gulir ke bawah hingga menemukan opsi `Maintenance Mode`.
-<h1 align="center"><img src="https://github.com/user-attachments/assets/f91986bc-1b41-4562-9a48-ae21c0b103b0"></h1>
+<h1 align="center"><img src="https://github.com/user-attachments/assets/ed0877b4-187f-4ede-9f42-8d70899ade9d"></h1>
 
-3. Masuk ke menu `Maintenance Mode` dan centang kotak untuk mengubah status aplikasi menjadi maintenance mode. Kita juga dapat menyesuaikan pesan yang akan ditampilkan selama aplikasi sedang dalam maintenance mode.
-<h1 align="center"><img src="https://github.com/user-attachments/assets/75fbeaf2-78ed-4a4d-b2cc-425500ce780d"></h1>
+4. Masuk ke menu `Maintenance Mode` dan centang kotak untuk mengubah status aplikasi menjadi maintenance mode. Kita juga dapat menyesuaikan pesan yang akan ditampilkan selama aplikasi sedang dalam maintenance mode.
+<h1 align="center"><img src="https://github.com/user-attachments/assets/e699624b-1c50-45b2-a9f5-66c9e0959097"></h1>
 
-4. Pilih `Save configuration` untuk menyimpan perubahan.
+5. Pilih `Save configuration` untuk menyimpan perubahan.
 
 # Otomatisasi 
 
