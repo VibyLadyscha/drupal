@@ -160,8 +160,14 @@
 </details>
 
 # Konfigurasi
+- 
+- Jika kita masuk ke submenu `Extend` pada menu `Manage`, kita dapat menambahkan fitur atau modul-modul tertentu sesuai yang dibutuhkan untuk melengkapi aplikasi.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/71b6e6a7-5369-44c6-9c59-051c83735c86"></h1>
+- Jika kita masuk ke submenu `Appearance` pada menu `Manage`, kita dapat menerapkan berbagai macam tema aplikasi Untuk memperindah aplikasi.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/649a0f2b-48c3-4a42-814c-edc4dfc792e2"></h1>
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
+
 - batas upload file
 - batas memori
 - dll
