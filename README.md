@@ -177,12 +177,22 @@ Ketika ingin memodifikasi aplikasi yang sudah terinstall, kita mungkin tidak ing
 4. Pilih `Save configuration` untuk menyimpan perubahan.
 
 # Otomatisasi 
+Jika masih kesulitan dalam meng-install **Drupal**, terdapat dua cara alternatif yang lebih mudah. Yaitu dengan menggunakan script shell yang otomatis akan menjalankan semua perintah instalasi pada terminal, atau dengan menggunakan layanan yang tersedia pada web-hosting provider. Dengan layanan tersebut kita hanya perlu mencari aplikasi yang dituju, kemudian klik untuk meng-installnya. Web-hosting provider yang menyediakan script instalasi **Drupal** secara otomatis diantaranya:
+- [Freehostia](https://www.freehostia.com/free-cloud-hosting/)
+- [Installatron](https://installatron.com/apps)
+- [Softaculous](https://www.softaculous.com/apps/cms/Drupal)
 
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
-Untuk otomatisasi, kita akan menggunakan layanan dari Installatron. Kunjungi link tersebut lalu klik tombol Install this Application.
-![WhatsApp Image 2024-10-11 at 17 33 58_1b59381b](https://github.com/user-attachments/assets/0465d42d-2c73-4087-9cdc-77113753e8eb)
+Sebagai contoh, kita akan menggunakan layanan dari **Installatron.**
+1. Kunjungi link tersebut kemudian cari aplikasi **Drupal** untuk di-install.
+![Screenshot 2024-10-12 133502](https://github.com/user-attachments/assets/61695fb8-4f17-4323-ae67-e58083520865)
 
+2. Selanjutnya, klik tombol **Install this Application.**
+![image](https://github.com/user-attachments/assets/7fef6f52-60d3-4f1e-b267-43ca7e19a4df)
 
+3. Isi semua informasi yang dibutuhkan, lalu klik tombol **Install.**
+![Screenshot 2024-10-12 134109](https://github.com/user-attachments/assets/e8b72617-99a3-4e34-9aab-767f03b187dd)
+
+4. Tunggu hingga proses instalasi selesai.
 
 # Cara Pemakaian
 
