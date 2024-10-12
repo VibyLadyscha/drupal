@@ -205,8 +205,18 @@ login admin
 
 2. Setelah **log in**, tampilannya akan seperti berikut:
 ![Screenshot 2024-10-12 160619](https://github.com/user-attachments/assets/1d106be3-3909-4f90-bfa3-e1ef6a5e0f51)
+
+
 ini kalo admin
 ![Screenshot 2024-10-12 160656](https://github.com/user-attachments/assets/a7c93927-5eff-442a-a0a8-9d172df4033d)
+
+edit profile
+![Screenshot 2024-10-12 161057](https://github.com/user-attachments/assets/ca198a78-3644-40ba-87fe-60ed4630422b)
+
+
+notifikasi (sisi admin)
+
+![Screenshot 2024-10-12 155313](https://github.com/user-attachments/assets/da08c08c-f373-41f2-ae26-630912dc5d24)
 
 
 Drupal menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai fungsi administrasi Drupal, diantaranya:
