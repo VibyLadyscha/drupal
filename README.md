@@ -9,7 +9,7 @@
 </summary>
 
 
-**Drupal** adalah *Content Management System* (CMS) sumber terbuka dan gratis yang ditulis dalam `PHP` dan didistribusikan di bawah Lisensi Publik Umum GNU. Drupal menyediakan **kerangka kerja back-end** secara *open source* untuk setidaknya 14% dari 10.000 situs web teratas di seluruh dunia dan 1,2% dari 10 juta situs web teratas—mulai dari blog pribadi hingga situs perusahaan, politik, dan pemerintah. Drupal juga dapat digunakan untuk **manajemen pengetahuan** dan untuk **kolaborasi bisnis**.
+**Drupal** adalah *Content Management System* (CMS) sumber terbuka dan gratis yang ditulis dalam `PHP` dan didistribusikan di bawah Lisensi Publik Umum GNU. Drupal menyediakan **kerangka kerja back-end** secara *open source* untuk setidaknya 14% dari 10.000 situs web teratas di seluruh dunia dan 1,2% dari 10 juta situs web teratas, mulai dari blog pribadi hingga situs perusahaan, politik, dan pemerintah. Drupal juga dapat digunakan untuk **manajemen pengetahuan** dan untuk **kolaborasi bisnis**.
 
 </details>
 
