@@ -265,7 +265,7 @@ Cara pemakaian CMS **Drupal** ini sangat mudah dan fleksibel. Dapat digunakan un
   - Extend: Menginstal dan mengelola modul tambahan yang memperluas fungsionalitas Drupal.
   - Configuration: Mengelola pengaturan dasar Drupal, termasuk konfigurasi sistem, pengguna, dan alur kerja.
 
-- Admin akan juga memiliki fitur notifikasi update **Drupal**.
+- Admin juga memiliki fitur notifikasi update **Drupal** dari developer.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/da08c08c-f373-41f2-ae26-630912dc5d24"></h1>
 
 - Pada menu Manage, Admin dapat mengelola akun pengguna di situs **Drupal**, misalnya pengguna anonim, registrasi akun baru, dan penghapusan akun pengguna. Sehingga situs akan dikelola secara aman dan efisien dari sisi pendaftaran akun pengguna dan perlindungan konten yang sudah dihasilkan oleh pengguna.
