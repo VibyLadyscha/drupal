@@ -5,7 +5,7 @@
 
 # Sekilas Tentang
 
-**Drupal** adalah *content management system* (CMS) sumber terbuka dan gratis yang ditulis dalam `PHP` dan didistribusikan di bawah Lisensi Publik Umum GNU. Drupal menyediakan **kerangka kerja back-end** secara *open source* untuk setidaknya 14% dari 10.000 situs web teratas di seluruh dunia dan 1,2% dari 10 juta situs web teratas—mulai dari blog pribadi hingga situs perusahaan, politik, dan pemerintah. Drupal juga dapat digunakan untuk **manajemen pengetahuan** dan untuk **kolaborasi bisnis**.
+**Drupal** adalah *Content Management System* (CMS) sumber terbuka dan gratis yang ditulis dalam `PHP` dan didistribusikan di bawah Lisensi Publik Umum GNU. Drupal menyediakan **kerangka kerja back-end** secara *open source* untuk setidaknya 14% dari 10.000 situs web teratas di seluruh dunia dan 1,2% dari 10 juta situs web teratas—mulai dari blog pribadi hingga situs perusahaan, politik, dan pemerintah. Drupal juga dapat digunakan untuk **manajemen pengetahuan** dan untuk **kolaborasi bisnis**.
 
 # Instalasi
 
@@ -192,11 +192,17 @@ Untuk otomatisasi, kita akan menggunakan layanan dari Installatron. Kunjungi lin
 
 
 # Pembahasan
+**Drupal** merupakan salah satu CMS yang banyak digemari oleh beberapa orang di seluruh dunia. Drupal dapat mempermudah untuk mengelola konten dan mempublikasikannya secara cepat. Berikut ini merupakan beberapa **kelebihan Drupal**:
+1.
+2. 
+3.
 
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
+Selain memiliki banyak manfaat seperti yang telah dijelaskan sebelumnya, Drupal juga memiliki kekurangan yang dapat diantisipasi. Berikut ini merupakan beberapa **kekurangan Drupal**.
+1.
+2.
+3.
+
+Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress* maupun **Drupal** tentunya memiliki beberapa kelebihan dan kekurangan yang dapat dijadikan sebagai pertimbangan sebelum menggunakannya. Berikut adalah beberapa perbandingan antara kedua CMS ini.
 
 
 # Referensi
