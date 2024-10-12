@@ -226,6 +226,13 @@ Drupal menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai
 - Extend: Menginstal dan mengelola modul tambahan yang memperluas fungsionalitas Drupal.
 - Configuration: Mengelola pengaturan dasar Drupal, termasuk konfigurasi sistem, pengguna, dan alur kerja.
 
+![Screenshot 2024-10-12 162237](https://github.com/user-attachments/assets/e1dd6708-2b40-46ee-b8df-6ed005aae1e5)
+
+di menu shortcut, bisa edit (sisi admin)
+![Screenshot 2024-10-12 162445](https://github.com/user-attachments/assets/0bbabb0f-2b8a-4c89-a1e5-05e9a68a00de)
+tampilan kalo edit shortcut
+![Screenshot 2024-10-12 162350](https://github.com/user-attachments/assets/c5f5b15d-ae0e-4701-8f7d-861cab0caee3)
+
 3. Selanjutnya, kita bisa membuat suatu artikel melalui menu **Shortcuts**, klik **add content.** Pada menu ini, kita bisa memilih bentuk konten yang ingin dibuat, yaitu article atau basic page.
 ![Screenshot 2024-10-12 160257](https://github.com/user-attachments/assets/a88707d3-2000-4eca-85e8-26a17e68c8ab)
 
