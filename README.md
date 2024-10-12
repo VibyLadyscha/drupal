@@ -130,6 +130,7 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 Untuk otomatisasi, kita akan menggunakan layanan dari Installatron. Kunjungi link tersebut lalu klik tombol Install this Application.
+![WhatsApp Image 2024-10-11 at 17 33 58_1b59381b](https://github.com/user-attachments/assets/0465d42d-2c73-4087-9cdc-77113753e8eb)
 
 
 
