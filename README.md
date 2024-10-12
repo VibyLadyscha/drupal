@@ -3,11 +3,20 @@
 | [Sekilas Tentang](#sekilas-tentang) |  [Instalasi](#instalasi)  | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) |  [Cara Pemakaian](#cara-pemakaian)  | [Pembahasan](#pembahasan) | [Referensi](#referensi) |
 |:-----|:--------:|------:|:-----|:--------:|------:|------:|
 
-# Sekilas Tentang
+<details open><summary> 
+  
+  # Sekilas Tentang
+</summary>
+
 
 **Drupal** adalah *Content Management System* (CMS) sumber terbuka dan gratis yang ditulis dalam `PHP` dan didistribusikan di bawah Lisensi Publik Umum GNU. Drupal menyediakan **kerangka kerja back-end** secara *open source* untuk setidaknya 14% dari 10.000 situs web teratas di seluruh dunia dan 1,2% dari 10 juta situs web teratas—mulai dari blog pribadi hingga situs perusahaan, politik, dan pemerintah. Drupal juga dapat digunakan untuk **manajemen pengetahuan** dan untuk **kolaborasi bisnis**.
 
-# Instalasi
+</details>
+
+<details><summary> 
+  
+  # Instalasi 
+</summary>
 
 <details><summary> 
   
@@ -160,7 +169,13 @@
 
 </details>
 
-# Konfigurasi
+</details>
+
+<details><summary> 
+  
+  # Konfigurasi
+</summary>
+
 - Jika kita masuk ke submenu `Configuration` pada menu `Manage`, kita dapat mengatur konfigurasi umum.
   <h1 align="center"><img src="https://github.com/user-attachments/assets/137ec895-3c7d-488f-a807-8501ef2cf65d"></h1>
   <h1 align="center"><img src="https://github.com/user-attachments/assets/c8a89094-0b97-4de2-a357-e8ac576da952"></h1>
@@ -178,107 +193,136 @@
   <h1 align="center"><img src="https://github.com/user-attachments/assets/649a0f2b-48c3-4a42-814c-edc4dfc792e2"></h1>
 
 - Jika kita masuk ke submenu `People` pada menu `Manage`, kita dapat mengatur batas akses aplikasi sesuai dengan role pengguna (anonymous, konten editor, admin).
-<h1 align="center"><img src="https://github.com/user-attachments/assets/ce42de4f-add0-4ec0-9b29-6d14535206a3"></h1>
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/ce42de4f-add0-4ec0-9b29-6d14535206a3"></h1>
 
-#  Maintenance
+</details>
+
+<details><summary> 
+  
+  #  Maintenance
+</summary>
 
 Ketika ingin memodifikasi aplikasi yang sudah terinstall, kita mungkin tidak ingin ada orang lain yang membuka aplikasi kita. Pada saat seperti itu, kita dapat mengatur konfigurasi aplikasi kita untuk masuk ke dalam `maintenance mode`. Berikut langkah-langkah yang harus kita:
 1. Login dengan akun administrator yang telah dibuat.
   
 2. Masuk ke submenu `Configuration` pada menu `Manage`.
-<h1 align="center"><img src="https://github.com/user-attachments/assets/80207d92-97ee-42ae-8c6e-26de1191f191"></h1>
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/80207d92-97ee-42ae-8c6e-26de1191f191"></h1>
 
 3. Gulir ke bawah hingga menemukan opsi `Maintenance Mode`.
-<h1 align="center"><img src="https://github.com/user-attachments/assets/ed0877b4-187f-4ede-9f42-8d70899ade9d"></h1>
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/ed0877b4-187f-4ede-9f42-8d70899ade9d"></h1>
 
 4. Masuk ke menu `Maintenance Mode` dan centang kotak untuk mengubah status aplikasi menjadi maintenance mode. Kita juga dapat menyesuaikan pesan yang akan ditampilkan selama aplikasi sedang dalam maintenance mode.
-<h1 align="center"><img src="https://github.com/user-attachments/assets/e699624b-1c50-45b2-a9f5-66c9e0959097"></h1>
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/e699624b-1c50-45b2-a9f5-66c9e0959097"></h1>
 
 5. Pilih `Save configuration` untuk menyimpan perubahan.
 
-# Otomatisasi 
+</details>
+
+<details><summary> 
+  
+  # Otomatisasi  
+</summary>
+
 Jika masih kesulitan dalam meng-install **Drupal**, terdapat dua cara alternatif yang lebih mudah. Yaitu dengan menggunakan script shell yang otomatis akan menjalankan semua perintah instalasi pada terminal, atau dengan menggunakan layanan yang tersedia pada web-hosting provider. Dengan layanan tersebut kita hanya perlu mencari aplikasi yang dituju, kemudian klik untuk meng-installnya. Web-hosting provider yang menyediakan script instalasi **Drupal** secara otomatis diantaranya:
 - [Freehostia](https://www.freehostia.com/free-cloud-hosting/)
 - [Installatron](https://installatron.com/apps)
 - [Softaculous](https://www.softaculous.com/apps/cms/Drupal)
 
-Sebagai contoh, kita akan menggunakan layanan dari **Installatron.**
+Sebagai contoh, kita akan menggunakan layanan dari `Installatron`.
 1. Kunjungi link tersebut kemudian cari aplikasi **Drupal** untuk di-install.
-![Screenshot 2024-10-12 133502](https://github.com/user-attachments/assets/61695fb8-4f17-4323-ae67-e58083520865)
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/61695fb8-4f17-4323-ae67-e58083520865"></h1>
 
-2. Selanjutnya, klik tombol **Install this Application.**
-![image](https://github.com/user-attachments/assets/7fef6f52-60d3-4f1e-b267-43ca7e19a4df)
+2. Selanjutnya, klik tombol `Install this Application`.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/7fef6f52-60d3-4f1e-b267-43ca7e19a4df"></h1>
 
-3. Isi semua informasi yang dibutuhkan, lalu klik tombol **Install.**
-![Screenshot 2024-10-12 134109](https://github.com/user-attachments/assets/e8b72617-99a3-4e34-9aab-767f03b187dd)
+3. Isi semua informasi yang dibutuhkan, lalu klik tombol `Install`.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/e8b72617-99a3-4e34-9aab-767f03b187dd"></h1>
 
 4. Tunggu hingga proses instalasi selesai.
 
-# Cara Pemakaian
-Cara pemakaian CMS **Drupal** ini sangat mudah dan fleksibel. Dapat digunakan untuk membuat, mengelola, dan mempublikasikan berbagai jenis konten di website, mulai dari blog pribadi hingga situs perusahaan besar, organisasi pemerintahan, dan portal komunitas. Berikut penjelasan pemakaian **Drupal** dari sisi user dan admin:
+</details>
 
-**USER**
-1. Sebelum menggunakan **Drupal** kita harus membuat akun terlebih dahulu, kemudian **log in.**
-![Screenshot 2024-10-12 155846](https://github.com/user-attachments/assets/62e9183b-a6f4-4966-bdc4-b173b1895c1a)
+<details><summary> 
+  
+  # Cara Pemakaian 
+</summary>
 
-2. Setelah **log in**, tampilannya akan seperti berikut:
-![Screenshot 2024-10-12 160619](https://github.com/user-attachments/assets/1d106be3-3909-4f90-bfa3-e1ef6a5e0f51)
+Cara pemakaian CMS **Drupal** ini sangat mudah dan fleksibel. Dapat digunakan untuk membuat, mengelola, dan mempublikasikan berbagai jenis konten di website, mulai dari blog pribadi hingga situs perusahaan besar, organisasi pemerintahan, dan portal komunitas. Dalam hal akses aplikasi, Admin memiliki kendali penuh, mulai dari pengelolaan konten, manajemen pengguna, hingga pengaturan keamanan. Admin bertanggung jawab untuk mengatur izin pengguna, mengonfigurasi modul, tema, dan memastikan situs berjalan dengan aman serta efisien. Sedangkan pengguna biasa hanya memiliki akses yang terbatas, hanya pada pembuatan dan pengelolaan konten mereka sendiri. Pengguna tidak dapat mengubah pengaturan situs atau mengelola pengguna lain, melainkan hanya berinteraksi dengan bagian-bagian situs yang sudah diatur oleh Admin. 
 
-**Drupal** menyediakan menu utama yaitu **Manage** yang memberikan akses ke berbagai fungsi administrasi Drupal, diantaranya:
-- Content: Mengelola semua konten yang dibuat di situs, seperti artikel, halaman, dan media.
-- Structure: Mengelola struktur situs web, seperti blok, jenis konten, menu, taksonomi, dan formulir.
-- Appearance: Mengelola tema situs web, mengaktifkan, menonaktifkan, atau mengonfigurasi tema yang diinstal.
-- Extend: Menginstal dan mengelola modul tambahan yang memperluas fungsionalitas Drupal.
-- Configuration: Mengelola pengaturan dasar Drupal, termasuk konfigurasi sistem, pengguna, dan alur kerja.
+<details><summary> 
+  
+  ## Pemakaian sebagai Administrator
+</summary>
 
-3. Selanjutnya, kita bisa membuat suatu artikel melalui menu **Shortcuts**, klik **add content.** Pada menu ini, kita bisa memilih bentuk konten yang ingin dibuat, yaitu article atau basic page.
-![Screenshot 2024-10-12 160257](https://github.com/user-attachments/assets/a88707d3-2000-4eca-85e8-26a17e68c8ab)
+- Pertama-tama Admin harus `Login` terlebih dahulu.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/9c66a544-ccc3-4e07-8db6-bb6268998857"></h1>
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/a7c93927-5eff-442a-a0a8-9d172df4033d"></h1>
 
-4. Contohnya, jika kita ingin membuat suatu konten berupa artikel tampilannya akan seperti berikut:
-![createartikeljumat](https://github.com/user-attachments/assets/dff3da9a-c889-4d90-b53c-e1fb7bd0d2cf)
+- Admin memiliki akses penuh ke seluruh fitur yang ada di aplikasi **Drupal**, antara lain sebagai berikut.
+  - Content: Mengelola semua konten yang dibuat di situs, seperti artikel, halaman, dan media.
+  - Structure: Mengelola struktur situs web, seperti blok, jenis konten, menu, taksonomi, dan formulir.
+  - Appearance: Mengelola tema situs web, mengaktifkan, menonaktifkan, atau mengonfigurasi tema yang diinstal.
+  - Extend: Menginstal dan mengelola modul tambahan yang memperluas fungsionalitas Drupal.
+  - Configuration: Mengelola pengaturan dasar Drupal, termasuk konfigurasi sistem, pengguna, dan alur kerja.
 
-Jika artikel sudah selesai ditulis, simpan artikel.
-![saveartikeljumat](https://github.com/user-attachments/assets/d651b7a2-24c4-4516-a851-fcd6e76ea3ff)
+- Admin akan juga memiliki fitur notifikasi update **Drupal**.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/da08c08c-f373-41f2-ae26-630912dc5d24"></h1>
 
-Setelah artikel berhasil disimpan, tampilannya seperti berikut:
-![tampilanartikeljumat](https://github.com/user-attachments/assets/3c5b2fbd-2204-4f29-8d24-64bf3d956d22)
+- Pada menu Manage, Admin dapat mengelola akun pengguna di situs **Drupal**, misalnya pengguna anonim, registrasi akun baru, dan penghapusan akun pengguna. Sehingga situs akan dikelola secara aman dan efisien dari sisi pendaftaran akun pengguna dan perlindungan konten yang sudah dihasilkan oleh pengguna.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/04cedb87-f84b-409d-ad57-a8f39ea69ccb"></h1>
 
-Selanjutnya, jika ingin melihat konten yang telah berhasil dibuat, klik menu manage, content
-![konten](https://github.com/user-attachments/assets/44e26f52-0d2f-4a7a-9cf0-df38e5a78d82)
+- Admin dapat membuat, mengedit, menghapus, dan mengelola akun pengguna, serta menetapkan peran dan izin yang berbeda untuk pengguna lain.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/ca198a78-3644-40ba-87fe-60ed4630422b"></h1>
 
-Konten bisa dibaca dan dikomentari oleh pengguna lain
-![WhatsApp Image 2024-10-11 at 17 33 58_b2e4ab63](https://github.com/user-attachments/assets/3044cd22-b466-4d65-a12f-81e8ab19e362)
-![komen](https://github.com/user-attachments/assets/945a3426-63a3-43ac-beeb-a89064cb4369)
+- Selain itu, Admin juga dapat menghapus komentar, dan membuat, mengedit, atau menghapus semua konten di situs, termasuk konten yang dibuat oleh pengguna lain.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/754246ff-dd89-4951-bd00-15a5030a7ed6"></h1>
 
-Selain itu, pengguna dapat melakukan beberapa aksi terhadap konten yang telah dibuat seperti delete content, promote content, publish content, dan aksi-aksi lainnya
-![action content](https://github.com/user-attachments/assets/9664adc9-c62c-41c5-8ef5-205966000bd6)
+</details>
+
+<details><summary> 
+  
+  ## Pemakaian sebagai Pengguna
+</summary>
+
+- Sebelum menggunakan **Drupal** kita harus membuat akun terlebih dahulu, kemudian `Login`.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/62e9183b-a6f4-4966-bdc4-b173b1895c1a"></h1>
+  
+- Setelah melakukan login, tampilan aplikasi akan seperti berikut.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/1d106be3-3909-4f90-bfa3-e1ef6a5e0f51"></h1>
+
+- Pengguna dapat membuat suatu artikel melalui menu `Shortcuts`, kemudian klik `Add Content`. Pada menu ini, kita bisa memilih bentuk konten yang ingin dibuat, yaitu *Article* atau *Basic Page*.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/a88707d3-2000-4eca-85e8-26a17e68c8ab"></h1>
+
+- Jika kita ingin membuat suatu konten berupa artikel, tampilannya akan seperti berikut.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/dff3da9a-c889-4d90-b53c-e1fb7bd0d2cf"></h1>
+
+- Jika artikel sudah selesai ditulis, simpan artikel.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/d651b7a2-24c4-4516-a851-fcd6e76ea3ff"></h1>
+
+- Setelah artikel berhasil disimpan, tampilannya seperti berikut.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/3c5b2fbd-2204-4f29-8d24-64bf3d956d22"></h1>
+
+- Jika ingin melihat konten yang telah berhasil dibuat, klik menu `Manage`, kemudian `Content`.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/44e26f52-0d2f-4a7a-9cf0-df38e5a78d82"></h1>
+
+- Konten bisa dibaca dan dikomentari oleh pengguna lain.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/3044cd22-b466-4d65-a12f-81e8ab19e362"></h1>
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/945a3426-63a3-43ac-beeb-a89064cb4369"></h1>
+
+- Pengguna dapat melakukan beberapa aksi terhadap konten yang telah dibuat seperti *delete content, promote content, publish content*, dan aksi-aksi lainnya.
+  <h1 align="center"><img src="https://github.com/user-attachments/assets/9664adc9-c62c-41c5-8ef5-205966000bd6"></h1>
+
+</details>
 
 
-**ADMIN**
 
-Admin memiliki akses penuh ke seluruh fungsi **Drupal**, termasuk manajemen konten, pengaturan situs, instalasi modul, tema, dan konfigurasi keamanan. 
+</details>
 
-Pertama-tama Admin harus **log in** terlebih dahulu, sama seperti user biasa
-![Screenshot 2024-10-12 160056](https://github.com/user-attachments/assets/9c66a544-ccc3-4e07-8db6-bb6268998857)
-![Screenshot 2024-10-12 160656](https://github.com/user-attachments/assets/a7c93927-5eff-442a-a0a8-9d172df4033d)
+<details><summary> 
+  
+  # Pembahasan
+</summary>
 
-Kemudian, Admin akan mendapatkan beberapa notifikasi seperti berikut:
-
-![Screenshot 2024-10-12 155313](https://github.com/user-attachments/assets/da08c08c-f373-41f2-ae26-630912dc5d24)
-
-Pada menu Manage, Admin dapat mengelola akun pengguna di situs **Drupal**, misalnya pengguna anonim, registrasi akun baru, dan penghapusan akun pengguna. Sehingga situs akan dikelola secara aman dan efisien dari sisi pendaftaran akun pengguna dan perlindungan konten yang sudah dihasilkan oleh pengguna.
-![WhatsApp Image 2024-10-11 at 17 33 15_bb3ec5ce](https://github.com/user-attachments/assets/04cedb87-f84b-409d-ad57-a8f39ea69ccb)
-
-Admin dapat membuat, mengedit, menghapus, dan mengelola akun pengguna, serta menetapkan peran dan izin yang berbeda untuk pengguna lain.
-![Screenshot 2024-10-12 161057](https://github.com/user-attachments/assets/ca198a78-3644-40ba-87fe-60ed4630422b)
-
-Selain itu, Admin juga dapat menghapus komentar, dan membuat, mengedit, atau menghapus semua konten di situs, termasuk konten yang dibuat oleh pengguna lain.
-![WhatsApp Image 2024-10-11 at 17 33 12_0bd25661](https://github.com/user-attachments/assets/754246ff-dd89-4951-bd00-15a5030a7ed6)
-
-Secara keseluruhan, Admin memiliki kendali penuh atas aspek situs, mulai dari pengelolaan konten, manajemen pengguna, hingga pengaturan keamanan. Admin bertanggung jawab untuk mengatur izin pengguna, mengonfigurasi modul, tema, dan memastikan situs berjalan dengan aman serta efisien. Sedangkan, user biasa hanya memiliki akses yang terbatas, hanya pada pembuatan dan pengelolaan konten mereka sendiri. User tidak dapat mengubah pengaturan situs atau mengelola pengguna lain, melainkan hanya berinteraksi dengan bagian-bagian situs yang sudah diatur oleh Admin. 
-
-
-# Pembahasan
 **Drupal** merupakan salah satu CMS yang banyak digemari oleh beberapa orang di seluruh dunia. Drupal dapat mempermudah untuk mengelola konten dan mempublikasikannya secara cepat. Berikut ini merupakan beberapa **kelebihan Drupal**:
 1. Mudah untuk dilakukan pengembangan karena bersifat *open source*.
 2. Memiliki tingkat keamanan yang tinggi karena adanya pengecekan data secara teratur dan berkala ketika aplikasi diperbarui.
@@ -298,18 +342,25 @@ Jika dibandingkan dengan CMS sejenis yaitu **WordPress**, baik **WordPress** mau
 4. **Drupal** memiliki tingkat keamanan yang sangat tinggi, membuatnya sulit diretas. **WordPress** juga aman, namun rentan jika menggunakan banyak plugin atau tema pihak ketiga.
 5. Kustomisasi tema dan plugin di **Drupal** lebih rumit dan sering memerlukan biaya. Sedangkan di **WordPress**, kustomisasinya lebih mudah dan gratis tanpa perlu modul khusus.
 
-# Referensi
+</details>
+
+<details><summary> 
+  
+  # Referensi
+</summary>
+
 - [Wikipedia Drupal](https://en.wikipedia.org/wiki/Drupal) - Wikipedia
 - [Drupal Documentation](https://www.drupal.org/documentation) - Drupal
 - [Drupal Review](https://www.g2.com/products/drupal/reviews) - G2: Business Software and Services Reviews
 - [Perbandingan Drupal dan Wordpress](https://www.sekawanmedia.co.id/blog/pengertian-drupal/) - Sekawanmedia
 
+</details>
+
 # Anggota Kelompok
 | Nama                                      | NIM          |
 |-------------------------------------------|--------------|
+| Aditya Purwansyah | G6401221024  |
 | Viby Ladyscha Yalasena Winarno | G6401221025  |
-| Yuuka Salsabila Sisvi | G6401221  |
-| Nabiel Muaafii Rahman | G6401221  |
-| Noer Hanifah Suganda | G6401221 |
-| Aditya Purwansyah | G6401221  |
-
+| Noer Hanifah Suganda | G6401221041 |
+| Nabiel Muaafii Rahman | G6401221044  |
+| Yuuka Salsabila Sisvi | G6401221117  |
