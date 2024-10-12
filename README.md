@@ -19,6 +19,7 @@
 - PHP 8.2.23+.
 - MariaDB 11.4.3+.
 - RAM minimal 100 Mb.
+- Web Hosting (Localtonet.com)
 
 </details>
   
