@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-11 at 17 33 58_18994118](https://github.com/user-attachments/assets/334ae805-3f2e-46cb-bb74-8a2aeaea59f4)<h1 align="center"><img src="https://github.com/user-attachments/assets/293d495a-bfad-4230-bf63-7b00e357058f"></h1>
+<h1 align="center"><img src="https://github.com/user-attachments/assets/293d495a-bfad-4230-bf63-7b00e357058f"></h1>
 
 | [Sekilas Tentang](#sekilas-tentang) |  [Instalasi](#instalasi)  | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) |  [Cara Pemakaian](#cara-pemakaian)  | [Pembahasan](#pembahasan) | [Referensi](#referensi) |
 |:-----|:--------:|------:|:-----|:--------:|------:|------:|
